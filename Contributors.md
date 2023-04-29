@@ -1,6 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
+- [ShivamSinha](https://github.com/shivamsinha545)
 - [Atharav](https://github.com/harshal-ishere)
 - [chamomil](https://github.com/chamomil)
 - [Pritse](https://github.com/Pritse)
